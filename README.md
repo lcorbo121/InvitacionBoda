@@ -4,7 +4,12 @@ Invitación de boda web (una sola página, sin dependencias). Importada desde el
 
 - **Fecha:** Viernes 7 de Agosto de 2026 — Durazno, Uruguay
 - **Estilo:** minimalista blanco y negro (fuentes EB Garamond, Bodoni Moda, Pinyon Script).
+- **En línea:** http://www.LucasYLucia.somee.com/
 - **Cómo verla:** abrí `index.html` en cualquier navegador (doble clic). También podés subirla a cualquier hosting estático (Netlify, GitHub Pages, Vercel).
+
+<p align="center">
+  <img src="screenshots/portada.png" alt="Portada de la invitación" width="360">
+</p>
 
 ## Contenido
 
