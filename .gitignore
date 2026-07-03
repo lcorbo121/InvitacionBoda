@@ -1,0 +1,7 @@
+# Claude Code
+.claude/
+
+# Temporales
+*_raw.png
+Thumbs.db
+desktop.ini
